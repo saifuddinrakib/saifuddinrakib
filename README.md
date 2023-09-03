@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifuddinrakib&label=Profile%20views&color=0e75b6&style=flat" alt="saifuddinrakib" /> </p>
 
-- 👀 I’m interested in **Design, artificial intelligence, machine learning, and robotics**
+- 👀 I’m interested in **Design, AI , ML, and Robotics**
 
 - 🔭 I’m currently working at **BJIT GROUP**
 
