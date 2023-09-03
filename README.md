@@ -4,15 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifuddinrakib&label=Profile%20views&color=0e75b6&style=flat" alt="saifuddinrakib" /> </p>
 
-- 👀 I’m interested in artificial intelligence, machine learning, coding and robotics
+- 👀 I’m interested in **artificial intelligence, machine learning, coding and robotics**
 
 - 🔭 I’m currently working at **BJIT GROUP**
 
 - 🌱 I’m currently learning **Machine learning**
 
 - 👨‍💻 All of my projects are available at [www.saifuddinrakib.com](www.saifuddinrakib.com)
-
-- 💬 Ask me about **Design, ML and AI**
 
 - 📫 How to reach me **saifrakib1@gmail.com**
 
