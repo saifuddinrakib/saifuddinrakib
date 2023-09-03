@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I am  Saif</h1>
+
 <h3 align="center">Mechanical Design Engineer by Profession! Driven for ML & AI</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2440104/screenshots/6254368/machine-learning-_1_.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifuddinrakib&label=Profile%20views&color=0e75b6&style=flat" alt="saifuddinrakib" /> </p>
 
-- 👀 I’m interested in **Design, AI , ML, and Robotics**
+- 👋 Hi, I’m @saifuddinrakib
+
+- 👀 I’m interested in **Design, AI, ML, and Robotics**
 
 - 🔭 I’m currently working at **BJIT GROUP**
 
@@ -17,8 +19,7 @@
 <a href="https://twitter.com/saipirakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saipirakib" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saifuddinrakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saifuddinrakib" height="30" width="40" /></a>
 <a href="https://kaggle.com/saifuddinrakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saifuddinrakib" height="30" width="40" /></a>
-<a href="https://www.behance.net/saifuddinrakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="saifuddinrakib" height="30" width="40" /></a>
-<a href="https://medium.com/saifuddinrakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="saifuddinrakib" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
