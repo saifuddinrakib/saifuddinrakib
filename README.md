@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working at **BJIT GROUP**
 
-- 👨‍💻 All of my projects are available at [https://cerulean-crisp-4ba825.netlify.app/](www.saifuddinrakib.com)
+- 👨‍💻 All of my projects are available at [www.saifuddinrakib.com](https://cerulean-crisp-4ba825.netlify.app/)
 
 - 📫 How to reach me **saifrakib1@gmail.com**
 
