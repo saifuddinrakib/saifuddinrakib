@@ -8,9 +8,9 @@
 
 - 👀 I’m interested in **Design, AI, ML, and Robotics**
 
-- 🔭 I’m currently working at **BJIT GROUP**
+- 🔭 I’m currently studing at at **IUBAT**
 
-- 👨‍💻 All of my projects are available at [www.saifuddinrakib.com](https://cerulean-crisp-4ba825.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://saifuddinrakib.github.io/]
 
 - 📫 How to reach me **saifrakib1@gmail.com**
 
