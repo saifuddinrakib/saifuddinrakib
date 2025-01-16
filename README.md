@@ -1,5 +1,5 @@
 
-<h3 align="center">Mechanical Design Engineer by Profession! Driven for ML & AI</h3>
+<h3 align="center">Mechanical Design Engineer! Driven for ML & AI</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2440104/screenshots/6254368/machine-learning-_1_.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifuddinrakib&label=Profile%20views&color=0e75b6&style=flat" alt="saifuddinrakib" /> </p>
