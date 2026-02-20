@@ -8,8 +8,6 @@
 
 - 👀 I’m interested in **Design, AI, ML, and Robotics**
 
-- 🔭 I’m currently studing at at **IUBAT**
-
 - 👨‍💻 All of my projects are available at [https://saifuddinrakib.github.io/]
 
 - 📫 How to reach me **saifrakib1@gmail.com**
